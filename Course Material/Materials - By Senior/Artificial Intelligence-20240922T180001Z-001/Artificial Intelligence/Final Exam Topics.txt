@@ -1,0 +1,2 @@
+Final Exam Topics:
+Genetic algorithm, Naive Bayes Classification, Decision trees, Random forests, Neurons (biological vs. artificial), McCulloch-Pitts model, Perceptron, Multilayer Perceptron (MLP) with error backpropagation algorithm. 
