@@ -1,0 +1,7 @@
+Topics.
+1. Random Forests. (Ref. Notes)
+2. Linear Regression (Ref. Notes)
+3. Logistic Regression (binary classification only). (Ref. Notes)
+4. Neural Networks: Introduction, McCulloch-Pitts model, Perceptron, MLP, Backpropagation algorithm, Heuristics to improve backpropagation algorithm. (Ref. Notes, Chp 4: 4.1 to 4.7)
+ 5. Bayesian classification, Naive Bayes, Gaussian Naive Bayes. (Ref. ML Book Chp 6: 6.9 and 6.10)
+Note: Pseudocode for algorithms is included. Derivations for parameter adjustment formulas is optional for exam preparation. You need to bring your calculator in exam.
